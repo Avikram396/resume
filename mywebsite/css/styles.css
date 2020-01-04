@@ -36,7 +36,7 @@ hr{
 
 
     background-color: #111F4D;
-    background-image: url("D:\mywebsite/hero_pattern.png");
+    background-image: url("https://raw.githubusercontent.com/Avikram396/resume/master/mywebsite/hero_pattern.png");
     height: auto;
 }
 .welcome{
@@ -86,14 +86,14 @@ font-family: 'Gelasio', serif;
 #skills{
     background-color: #3e206d;
     padding-bottom: 70px;
-    background-image: url("D:\mywebsite/hero_pattern.png");
+    background-image: url("https://raw.githubusercontent.com/Avikram396/resume/master/mywebsite/hero_pattern.png");
 }
 /* MY PROJECT SECTION */
 
 
 #project{
   background-color: #1b262c;
-  background-image:url("D:\mywebsite/hero_pattern.png");
+  background-image:url("https://raw.githubusercontent.com/Avikram396/resume/master/mywebsite/hero_pattern.png");
 
 }
 .dr{
@@ -103,7 +103,7 @@ font-family: 'Gelasio', serif;
 /* SECTION 3 ABOUT ME  */
 #aboutme{
   background-color: #2d132c;
-  background-image: url("D:\mywebsite/hero_pattern.png");
+  background-image: url("https://raw.githubusercontent.com/Avikram396/resume/master/mywebsite/hero_pattern.png");
 }
 .about{
   margin-bottom: 30px;
@@ -121,7 +121,7 @@ font-family: 'Gelasio', serif;
 /* Contact me section */
 #contact{
   background-color: #272121;
-    background-image: url("D:\mywebsite/hero_pattern.png");
+    background-image: url("https://raw.githubusercontent.com/Avikram396/resume/master/mywebsite/hero_pattern.png");
   height:600px;
 }
 .contact-icon{
