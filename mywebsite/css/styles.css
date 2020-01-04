@@ -1,0 +1,130 @@
+html{
+  scroll-behavior: smooth;
+}
+a{
+  color: white;
+}
+a:hover{
+  color: black;
+}
+hr{
+  border-top:2px solid white;
+}
+.navi{
+    background-color: #111F4D;
+  margin-left: auto;
+  margin-right: 32px;
+  padding-bottom: 5.5rem;
+  font-family: sans-serif;
+}
+.bari{
+  margin-left: 30px;
+  padding-left: 140px;
+}
+.name{
+  font-size: 30px;
+  /* margin-left: 48px; */
+  font-weight: bold;
+}
+.bar-items{
+  font-size: 20px;
+  padding: 0px 20px;
+}
+
+
+#start{
+
+
+    background-color: #111F4D;
+    background-image: url("D:\mywebsite/hero_pattern.png");
+    height: auto;
+}
+.welcome{
+font-family: 'Gelasio', serif;
+  color:white;
+  font-weight: bold;
+  font-size: 4em;
+  padding-bottom: 50px;
+
+  /* width: 800px; */
+  /* position: absolute; */
+}
+.line{
+  font-size: 50px;
+  margin-left: 30%;
+}
+.dp
+{
+  border-radius: 50%;
+}
+.btn{
+  color: white;
+  margin-left: 310px;
+  background-color: #111F4D;
+}
+
+/* MY SKILLS SECTION */
+.heading
+{font-weight: bold;
+  padding-top: 20px;
+  margin-left: auto;
+  color: white;
+}
+.skillset{
+  text-align:center;
+  font-family: 'Gelasio', serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.skill{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+#skills{
+    background-color: #3e206d;
+    padding-bottom: 70px;
+    background-image: url("D:\mywebsite/hero_pattern.png");
+}
+/* MY PROJECT SECTION */
+
+
+#project{
+  background-color: #1b262c;
+  background-image:url("D:\mywebsite/hero_pattern.png");
+
+}
+.dr{
+  color: white;
+  line-height: 2.4;
+}
+/* SECTION 3 ABOUT ME  */
+#aboutme{
+  background-color: #2d132c;
+  background-image: url("D:\mywebsite/hero_pattern.png");
+}
+.about{
+  margin-bottom: 30px;
+  float: left;
+  padding-right: 10px;
+
+}
+.list-items{
+  margin-left: 100px;
+  position: absolute;
+  color: white;
+  margin-bottom: 50px;
+
+}
+/* Contact me section */
+#contact{
+  background-color: #272121;
+    background-image: url("D:\mywebsite/hero_pattern.png");
+  height:600px;
+}
+.contact-icon{
+margin-left: 130px;
+
+}
